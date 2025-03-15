@@ -1,4 +1,6 @@
-# BY CHATGPT
+# CHETGPT: Kinda works... but results are not very accurate.
+
+# CHATGPT
 
 ## 🎵 Overview
 SONIX ANALYSIS V1A is an advanced **audio analysis and classification tool** that processes audio files to extract **musical, acoustic, and textual features**. It integrates multiple machine learning techniques, audio processing methods, and natural language processing (NLP) tools to analyze **music, speech, and textual content** from audio files.
@@ -63,7 +65,3 @@ Feel free to contribute by submitting issues or pull requests to improve the fea
 
 ---
 🎵 *Bringing AI-powered analysis to music and audio processing!*
-
-# BY CHETGPT
-
-Kinda works... but results are not very accurate.
