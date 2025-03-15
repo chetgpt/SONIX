@@ -1,4 +1,4 @@
-# CHETGPT: Kinda works... but results are not very accurate.
+# CHETGPT: Kinda works... but results are not very accurate. Made this using ChatGPT 3 then 4.
 
 # CHATGPT
 
